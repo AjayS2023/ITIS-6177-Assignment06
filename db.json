@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Ajay",
+      "author": "ajay",
+      "id": 2
+    },
+    {
+      "title": "Star Wars",
+      "author": "George Lucas",
+      "id": 3
+    },
+    {
+      "title": "ITIS 6177",
+      "author": "Fabio",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
